@@ -1,6 +1,6 @@
 # Site
 repository: sproogen/resume-theme
-favicon: images/favicon.ico
+favicon: _site/images/favicon.ico
 
 # Content configuration version
 version: 2
@@ -38,7 +38,7 @@ linkedin_username: alessio-di-luzio94
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profilepic.jpeg
+about_profile_image: _site/images/profilepic.jpeg
 about_content: | # this will include new lines to allow paragraphs
   Hi, I'm Alessio a Computer Engineer passionate about Artificial Intelligence with a strong mathematical understanding of Machine Learning Algorithms. 
   I currently do robust design and programming for a company in the military industry.
