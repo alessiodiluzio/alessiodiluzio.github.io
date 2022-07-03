@@ -112,10 +112,8 @@ content:
         # link_text: boringcompany.com
         sub_title: Software Engineer
         caption: September 2020 - Present
-        quote: >
-                      Member of the Short Range Air Defense Software Group.
         description: | # this will include new lines to allow paragraphs
-          I am responsible of the full life cycle management (Design, Documentation, Development and Testing) of highly available software component for real-time Command And Control tactical software for missile weapon systems.
+          As a member of the Short Range Air Defense Software Group I am responsible of the full life cycle management (Design, Documentation, Development and Testing) of highly available software component for real-time Command And Control tactical software for missile weapon systems.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -124,8 +122,6 @@ content:
         title: University of Rome Tor Vergata
         caption: 2017 - 2019 110/110 cum Laude
         sub_title: Master's Degree in Computer Engineering
-        quote: >
-         Master Thesis Title: Deep Learning for Powerline Cable Segmentation
         description: | # this will include new lines to allow paragraphs
           During my time at Tor Vergata I learnt most of my key skills:
           - Programming and Design Software following well known standard and patterns of Software Engineering 
