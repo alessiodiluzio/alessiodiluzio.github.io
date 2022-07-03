@@ -113,7 +113,7 @@ content:
         sub_title: Software Engineer
         caption: September 2020 - Present
         description: | # this will include new lines to allow paragraphs
-          As a member of the Short Range Air Defense Software Group I am responsible of the full life cycle management (Design, Documentation, Development and Testing) of highly available software component for real-time Command And Control tactical software for missile weapon systems.
+          As a member of the Short Range Air Defense Software Group I am responsible of the full life cycle management (Design, Documentation, Development and Testing) of highly available software component for real-time Command And Control tactical software of missile weapon systems.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
